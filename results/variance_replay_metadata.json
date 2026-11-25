@@ -1,0 +1,14 @@
+{
+  "return_code": 0,
+  "execution_time_seconds": 1.0878231620008592,
+  "bootstrap_resamples": 1000,
+  "seed": 0,
+  "sample_sizes": [
+    100,
+    200,
+    300,
+    400,
+    500
+  ],
+  "stderr": "/home/hydrogen/PROJECTS/unigram-surprisal-demo/data/variance_replay/author_code/variance.py:174: RuntimeWarning: Degrees of freedom <= 0 for slice.\n  return np.nanvar(estimates, axis=0, ddof=1)\nMatched 10/10 printed NMC/pathwise cells.\nThe five retained EE values were not recomputed.\n"
+}
