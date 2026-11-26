@@ -1,0 +1,11 @@
+replicaverse @ git+https://github.com/replicaverse/replica.git@a0edb776b4f7c68919aeb2f4ead8c43d1ea9247b
+
+numpy
+pandas
+matplotlib
+torch
+transformers==4.57.6
+
+jupyterlab
+ipykernel
+ipywidgets
